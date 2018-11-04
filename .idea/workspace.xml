@@ -141,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/src/dbConnect/dbConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -230,6 +230,9 @@
       <find>connet</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Human-Management" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -268,6 +271,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -326,7 +330,7 @@
     <property name="SearchEverywhereHistoryKey" value="database&#9;ACTION&#9;ActivateDatabaseToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541331146735" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541331154916" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last.edited.regexp" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-6.0.6.jar!/" />
@@ -381,12 +385,12 @@
       <workItem from="1540929511951" duration="23137000" />
       <workItem from="1541227160487" duration="8566000" />
       <workItem from="1541240445989" duration="4080000" />
-      <workItem from="1541322539202" duration="3912000" />
+      <workItem from="1541322539202" duration="4082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97824000" />
+    <option name="totallyTimeSpent" value="97994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,23 +402,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="21" width="1382" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.34542313" side_tool="true" weight="0.22163388" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.51967216" visible="true" weight="0.19062027" />
-      <window_info id="Structure" order="6" sideWeight="0.48032787" side_tool="true" visible="true" weight="0.19062027" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.5183374" visible="true" weight="0.19062027" />
+      <window_info id="Structure" order="6" sideWeight="0.4816626" side_tool="true" visible="true" weight="0.19062027" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -615,7 +618,7 @@
     <entry file="file://$PROJECT_DIR$/src/dbConnect/dbConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
